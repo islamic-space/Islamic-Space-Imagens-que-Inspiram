@@ -2,6 +2,8 @@
 
 Esta galeria apresenta um mosaico dinâmico das referências visuais que influenciam o Islamic Passport. Explore cada obra passando o cursor sobre as molduras: efeitos de luz, parallax suave e legendas contextualizadas ajudam a perceber nuances históricas e arquitetônicas.
 
+👉 [Repositório oficial das imagens](https://github.com/Islamic-Works/Islamic-Passport-workspace/tree/main/sites/Imagens-que-Inspiram)
+
 <style>
   :root {
     color-scheme: light dark;
